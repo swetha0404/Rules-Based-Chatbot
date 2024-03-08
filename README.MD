@@ -1,23 +1,8 @@
-README File:
+<h3>Rules based Chatbot </h3>
 
-Files present in folder:
-     
-         webcrawl.py - To scrape data and create corpus. 
-         knowledge_base.py - To create custom knowledge base from the corpus. 
-         chatbot.py - The chatbot file to interact with. 
-    
-
-Requirements:
-	To install Dependencies execute,
-			py requirements.py 
-
-
-    
-Part 1: Web Crawler
-    To execute,
-        python webcrawl.py 
-
-Part 2: Chatbot
-    To execute:
-        python chatbot.py
+<ul>
+	<li>	<h5> First part of project </h5>
+		<p>&nbsp&nbsp Webcrawler: Data is scraped using a starter link through which further links and data is collected from. The library used to web scrape was Requests and BeautifulSoup. The data from each website is stored in text files. The stored data is then cleaned using Regex, NLTK tools, and basic python functions. </li>
+	
+</ul>
 
