@@ -8,3 +8,10 @@
 	
 </ul>
 
+
+<p> Instructions to run the code:
+	<ul> 	<li> Run requirements.py to install the required libaries. </li>
+		<li> Run webcrawler.py to gather the data and store it. </li>
+		<li> Run chatbot.py to interact with the chatbot. </li>
+	</ul>
+</p>
